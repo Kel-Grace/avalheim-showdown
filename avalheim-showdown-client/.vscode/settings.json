@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": false,
+  "showdown.server": "", // e.g., "?~~88.167.13.112:33600"
+  "showdown.clientUrl": "http://88.167.13.112:33700",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
